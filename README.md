@@ -4,7 +4,7 @@ Userstamp Plugin (v 2.0)
 Fork Info:
 ----------
 
-This for has been created for compatibility with Rails 4.2
+This for has been created for compatibility with Rails 5.2
 
 To install to your gemfile:
 
